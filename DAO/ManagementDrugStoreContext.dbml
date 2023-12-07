@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ManagementDrugstore" Class="ManagementDrugStoreContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ManagementDrugstore;Integrated Security=True" SettingsObjectName="DAO.Properties.Settings" SettingsPropertyName="ManagementDrugstoreConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Customer" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Association Name="Customer_Invoice" Member="Invoices" ThisKey="id" OtherKey="customerId" Type="Invoice" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TypeOfMedicine" Member="TypeOfMedicines">
+    <Type Name="TypeOfMedicine">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="TypeOfMedicine_Medicine" Member="Medicines" ThisKey="id" OtherKey="typeOfMedicineId" Type="Medicine" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntrySlip" Member="EntrySlips">
+    <Type Name="EntrySlip">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="createDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="isPay" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="supplierId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="EntrySlip_EntrySlipDetail" Member="EntrySlipDetails" ThisKey="id" OtherKey="entrySlipId" Type="EntrySlipDetail" />
+      <Association Name="Staff_EntrySlip" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+      <Association Name="Supplier_EntrySlip" Member="Supplier" ThisKey="supplierId" OtherKey="id" Type="Supplier" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntrySlipDetail" Member="EntrySlipDetails">
+    <Type Name="EntrySlipDetail">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="medicineId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="entrySlipId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="EntrySlip_EntrySlipDetail" Member="EntrySlip" ThisKey="entrySlipId" OtherKey="id" Type="EntrySlip" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Medicine_EntrySlipDetail" Member="Medicine" ThisKey="medicineId" OtherKey="id" Type="Medicine" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Invoice" Member="Invoices">
+    <Type Name="Invoice">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="customerId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="createDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="isPay" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Invoice_InvoiceDetail" Member="InvoiceDetails" ThisKey="id" OtherKey="invoiceId" Type="InvoiceDetail" />
+      <Association Name="Customer_Invoice" Member="Customer" ThisKey="customerId" OtherKey="id" Type="Customer" IsForeignKey="true" />
+      <Association Name="Staff_Invoice" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InvoiceDetail" Member="InvoiceDetails">
+    <Type Name="InvoiceDetail">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="invoiceId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="medicineId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Invoice_InvoiceDetail" Member="Invoice" ThisKey="invoiceId" OtherKey="id" Type="Invoice" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Medicine_InvoiceDetail" Member="Medicine" ThisKey="medicineId" OtherKey="id" Type="Medicine" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Manufacturer" Member="Manufacturers">
+    <Type Name="Manufacturer">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Manufacturer_Medicine" Member="Medicines" ThisKey="id" OtherKey="manufacturerId" Type="Medicine" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Medicine" Member="Medicines">
+    <Type Name="Medicine">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="manufacturerId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="supplierId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="uses" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="typeOfMedicineId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Medicine_EntrySlipDetail" Member="EntrySlipDetails" ThisKey="id" OtherKey="medicineId" Type="EntrySlipDetail" />
+      <Association Name="Medicine_InvoiceDetail" Member="InvoiceDetails" ThisKey="id" OtherKey="medicineId" Type="InvoiceDetail" />
+      <Association Name="Manufacturer_Medicine" Member="Manufacturer" ThisKey="manufacturerId" OtherKey="id" Type="Manufacturer" IsForeignKey="true" />
+      <Association Name="TypeOfMedicine_Medicine" Member="TypeOfMedicine" ThisKey="typeOfMedicineId" OtherKey="id" Type="TypeOfMedicine" IsForeignKey="true" />
+      <Association Name="Supplier_Medicine" Member="Supplier" ThisKey="supplierId" OtherKey="id" Type="Supplier" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Role" Member="Roles">
+    <Type Name="Role">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Role_Staff" Member="Staffs" ThisKey="id" OtherKey="roleId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Staff" Member="Staffs">
+    <Type Name="Staff">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="dateOfBirth" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="username" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="roleId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Association Name="Staff_EntrySlip" Member="EntrySlips" ThisKey="id" OtherKey="staffId" Type="EntrySlip" />
+      <Association Name="Staff_Invoice" Member="Invoices" ThisKey="id" OtherKey="staffId" Type="Invoice" />
+      <Association Name="Role_Staff" Member="Role" ThisKey="roleId" OtherKey="id" Type="Role" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Supplier" Member="Suppliers">
+    <Type Name="Supplier">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Association Name="Supplier_EntrySlip" Member="EntrySlips" ThisKey="id" OtherKey="supplierId" Type="EntrySlip" />
+      <Association Name="Supplier_Medicine" Member="Medicines" ThisKey="id" OtherKey="supplierId" Type="Medicine" />
+    </Type>
+  </Table>
+  <Function Name="dbo.TopCustomerBuy" Method="TopCustomerBuy" IsComposable="true">
+    <Parameter Name="checkType" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="date" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="TopCustomerBuyResult">
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="totalMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.TopStaffSell" Method="TopStaffSell" IsComposable="true">
+    <Parameter Name="checkType" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="date" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="TopStaffSellResult">
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="totalOrder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.TopSelling" Method="TopSelling" IsComposable="true">
+    <Parameter Name="quantity" Type="System.Int32" DbType="Int" />
+    <ElementType Name="TopSellingResult">
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

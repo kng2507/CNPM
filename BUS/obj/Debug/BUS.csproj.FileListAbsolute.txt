@@ -1,0 +1,425 @@
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\obj\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\obj\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\BUS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\obj\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\BUS\obj\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\obj\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\BUS\obj\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\obj\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\BUS\obj\Debug\BUS.pdb
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\BUS.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\BUS.pdb
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DAO.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Images.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DAO.pdb
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\winform_quanlynhathuoc\Do_An\BUS\obj\Debug\BUS.dll
+E:\winform_quanlynhathuoc\Do_An\BUS\obj\Debug\BUS.pdb

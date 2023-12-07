@@ -1,0 +1,1569 @@
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\GUI.exe.config
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.exe.licenses
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.frmMain.resources
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.frmSystem.resources
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.frmLogin.resources
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.frmConnect.resources
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.UC.uc_customer.resources
+E:\Phát triển ứng dụng thông minh\Do_An\GUI\obj\Debug\GUI.UC.uc_staff.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmBKRS.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmChangePass.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmConnect.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmLogin.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmMain.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmSystem.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.FRM.WaitForm1.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.Report.rpImport.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.Report.rpInventory.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.Report.rpOrder.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.Report.rpStatistical.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_customer.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_home.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_import.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_import_employee.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_order.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_order_employee.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_product.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_staff.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_inventory.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_statistical.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.exe.licenses
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\GUI.exe.config
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\bin\Debug\GUI.pdb
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\GUI.exe.config
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.exe
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.pdb
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\GUI.exe
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\GUI.pdb
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\BUS.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DAO.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\BUS.pdb
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DAO.pdb
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.frmBKRS.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.frmChangePass.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.frmConnect.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.frmLogin.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.frmMain.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.frmSystem.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.FRM.WaitForm1.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.Report.rpImport.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.Report.rpInventory.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.Report.rpOrder.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.Report.rpStatistical.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_customer.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_home.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_import.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_import_employee.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_order.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_order_employee.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_product.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_staff.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_inventory.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.UC.uc_statistical.resources
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Downloads\Do_An_UDTM-3c25b20ce80e9add6539a251e51ae1da0648aba4\Do_An\GUI\obj\Debug\GUI.exe.licenses
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\GUI.exe.config
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmBKRS.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmChangePass.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmConnect.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmLogin.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmMain.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.frmSystem.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.FRM.WaitForm1.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.Report.rpImport.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.Report.rpInventory.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.Report.rpOrder.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.Report.rpStatistical.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_customer.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_home.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_import.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_import_employee.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_order.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_order_employee.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_product.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_staff.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_inventory.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_statistical.resources
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.exe.licenses
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\GUI\obj\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_predict.resources
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\GUI\obj\Debug\GUI.UC.uc_statistic_staff_customer.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\GUI.exe.config
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\GUI.exe
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\GUI.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\BUS.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\BUS.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.frmBKRS.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.frmChangePass.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.frmConnect.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.frmLogin.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.frmMain.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.frmSystem.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.FRM.WaitForm1.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.Report.rpImport.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.Report.rpInventory.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.Report.rpOrder.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.Report.rpStatistical.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_customer.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_home.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_import.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_import_employee.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_order.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_order_employee.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_predict.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_product.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_staff.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_inventory.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_statistical.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.UC.uc_statistic_staff_customer.resources
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\GUI\obj\Debug\GUI.exe.licenses
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\GUI.exe.config
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.exe
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.pdb
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.frmMain.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.WaitForm1.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.exe.licenses
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.frmBKRS.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_staff.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\GUI.exe
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\GUI.pdb
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\BUS.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DAO.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\BUS.pdb
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DAO.pdb
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_customer.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_medicine.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_entrySlip.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.Report.rpImport.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_import.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.Report.rpOrder.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_invoice.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_order.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_home.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.Report.rpInventory.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.Report.rpStatistical.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_inventory.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_statistical.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.UC.uc_statistic_staff_customer.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.frmChangePass.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.frmConnect.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.frmLogin.resources
+E:\winform_quanlynhathuoc\Do_An\GUI\obj\Debug\GUI.FRM.frmSystem.resources
